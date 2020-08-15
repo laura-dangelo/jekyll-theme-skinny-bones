@@ -7,5 +7,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-permalink: /contact/
+title: "cv"
+permalink: /cv/
 ---
+
+questo è il cv
