@@ -23,7 +23,7 @@ body, html {
 
 .parallax {
   /* The image used */
-  background-image: url('https://www.w3schools.com/howto/img_parallax.jpg');
+  background-image: <div style="height:1000px;background-color:blue;font-size:36px">
 
   /* Full height */
   height: 100%; 
