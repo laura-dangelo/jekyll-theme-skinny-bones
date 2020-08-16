@@ -39,6 +39,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 </div>
 <br>
 
+<font style="font-size:18px">
 <div class="tiles">
 <div class="tile">
 <h2 class="post-title">Interests</h2>
@@ -57,8 +58,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <li>  M.S. in Statistical Sciences </li>
     <li>  B.S. in Statistics, Economics and Finance  </li></p>
 </div><!-- /.tile -->
-
 </div><!-- /.tiles -->
+</font>
 
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
