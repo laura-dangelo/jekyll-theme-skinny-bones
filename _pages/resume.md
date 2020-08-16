@@ -1,15 +1,12 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
 permalink: /resume/
+defaults:
+  # _pages
+  - scope:
+layout: media
 author_profile: true
+title: "Resume"
 ---
-
-{% include base_path %}
-
-<style type="text/css">
-    a.typeA:hover {text-decoration: underline;}
-</style>
 
 
 <b style="font-size:18px"> Education </b>
