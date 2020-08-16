@@ -43,20 +43,20 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <div class="tiles">
 <div class="tile">
 <h2 class="post-title">Interests</h2>
-<p class="post-excerpt"><font style="font-size:18px">
+<p class="post-excerpt">
     <li> Statistical modeling </li>
     <li> Bayesian statistics </li>
     <li> Bayesian nonparametrics  </li>
-    <li> Computational statistics </li> </font></p>
+    <li> Computational statistics </li> </p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
   <h2 class="post-title">Education</h2>
-  <p class="post-excerpt"><font style="font-size:18px">
+  <p class="post-excerpt">
     <li>  PhD in Statistical Sciences (ongoing) </li>
     <li>  M.S. in Statistical Sciences </li>
-    <li>  B.S. in Statistics, Economics and Finance  </li> </font> </p>
+    <li>  B.S. in Statistics, Economics and Finance  </li> </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
 
