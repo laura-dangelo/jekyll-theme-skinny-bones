@@ -55,7 +55,7 @@ title: ""
      <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:17px">  B.S. in Statistics, Economics and Finance</font><br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:13px"> University of Padova </font><br>
      
    </td>
- </tr>
+ </tr> 
 </table>
 
 </div><!-- /.page-content -->
