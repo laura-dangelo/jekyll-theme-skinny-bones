@@ -44,7 +44,7 @@ body, html {
 </head>
 <body>
 
-<p>In this example we have turned off parallax scrolling for mobile devices. It works as expected on all desktop screens sizes.</p>
+<p>In this example ces. It works as expected on all desktop screens sizes.</p>
 <p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
 
 <div class="parallax"></div>
