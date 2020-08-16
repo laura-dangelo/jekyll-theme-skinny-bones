@@ -2,8 +2,6 @@
 layout: archive
 permalink: /
 title: "Home"
-image:
-  feature: wide2.jpg
 ---
 
 <div class="tiles">
