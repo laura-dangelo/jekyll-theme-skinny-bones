@@ -81,4 +81,14 @@ body{
 body, html{
   height: 70%;
 }
+  
+  
+  
+element.style {
+}
+b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, .highlight {
+    -webkit-transition: color 0.2s ease-out,border-color 0.2s ease-out;
+    -moz-transition: border-color 0.2s ease-out;
+    transition: border-color 0.2s ease-out;
+}
 </style>
