@@ -6,7 +6,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archive
+      layout: media
       author_profile: true
 title: "cv"
 ---
