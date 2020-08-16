@@ -58,6 +58,7 @@ title: ""
 </div>
 </body>
 
+<style>
 element {
     background-image: url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg);
 }
@@ -71,3 +72,4 @@ element {
     text-align: center;
     color: #fff;
 }
+</style>
