@@ -12,8 +12,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<!DOCTYPE html>
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -23,7 +22,7 @@ body, html {
 
 .parallax {
   /* The image used */
-  background-image: <div style="height:1000px;background-color:blue;font-size:36px">
+  background-image: <img src="https://www.w3schools.com/howto/img_parallax.jpg">
 
   /* Full height */
   height: 100%; 
@@ -56,6 +55,4 @@ Tip: Try to remove the background-attachment property to remove the scrolling ef
 </div>
 
 <div class="parallax"></div>
-
 </body>
-</html>
