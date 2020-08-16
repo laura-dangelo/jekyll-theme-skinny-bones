@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Home"
+title: ""
 ---
 
 <div class="tiles">
@@ -15,9 +15,8 @@ title: "Home"
     
 <div class="page-lead" style="background-image:url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
-        <h1>Skinny Bones</h1>
-        <h2>Jump start your Jekyll site with something thin and light.</h2>
-        <a href="https://mmistakes.github.io/jekyll-theme-skinny-bones/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/jekyll-theme-skinny-bones" class="btn-inverse">View on GitHub</a>
+        <h1>Laura D'Angelo</h1>
+        <h2>PhD student in Statistics @ University of Padova</h2>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     
@@ -63,6 +62,4 @@ title: "Home"
 </div><!-- /#main -->
 
 </div>
-<script src="https://mmistakes.github.io/jekyll-theme-skinny-bones/js/vendor/jquery-1.9.1.min.js"></script>
-<script src="https://mmistakes.github.io/jekyll-theme-skinny-bones/js/main.js"></script>
 </body>
