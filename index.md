@@ -12,7 +12,7 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -56,3 +56,4 @@ Tip: Try to remove the background-attachment property to remove the scrolling ef
 
 <div class="parallax"></div>
 </body>
+</html>
