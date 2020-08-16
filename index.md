@@ -76,6 +76,7 @@ element {
     color: #fff;
 }
 body {
-    margin: 0;
+  margin: 0;
+  height: 40%;
 }
 </style>
