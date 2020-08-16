@@ -4,15 +4,9 @@ permalink: /
 title: ""
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
 
- <body>
-    
-    
+
+<body>    
 <div class="page-lead" style="background-image:url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
         <h2>Laura D'Angelo</h2>
