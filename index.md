@@ -50,7 +50,7 @@ title: ""
 
 <style>
 element {
-    background-image: url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg);
+    background-image: url(https://www.alliedtelesis.com/sites/default/files/iot-network-blog-min.jpg);
 }
 .page-lead {
     background-size: cover;
