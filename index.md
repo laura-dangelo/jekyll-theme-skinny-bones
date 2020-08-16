@@ -48,31 +48,12 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <div class="tile">
   <h2 class="post-title">Education</h2>
   <p class="post-excerpt">
-    <li>   Statistical modeling </li>
-      <li>  Bayesian statistics </li>
-      <li>   Bayesian nonparametrics  </li></p>
+    <li>   PhD in Statistical Sciences (ongoing) </li>
+      <li>  M.S. in Statistical Sciences </li>
+      <li>   B.S. in Statistics, Economics and Finance  </li></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-
-<table border="0">
- <tr>
-    <td>
-      <b style="font-size:20px">Interests</b> <br>
-      <li>  <font style="font-size:19px"> Statistical modeling </font> </li> 
-      <li> <font style="font-size:19px"> Bayesian statistics </font> </li>
-      <li>  <font style="font-size:19px"> Bayesian nonparametrics </font> </li>
-      <li> <font style="font-size:19px"> Computational statistics </font> </li>
-   </td>   
-   <td>
-     <b style="font-size:20px">Education</b> <br>
-     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:19px">  PhD in Statistical Sciences (ongoing)</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:15px"> University of Padova </font><br>
-   <img src="../images/49944.png" width="22">  <img src="../images/spacer.png" height="1px" width="2px"><font style="font-size:19px">  M.S. in Statistical Sciences</font> <br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:15px"> University of Padova </font><br>
-     <img src="../images/49944.png" width="22"> <img src="../images/spacer.png" height="1px" width="2px"> <font style="font-size:19px">  B.S. in Statistics, Economics and Finance</font><br> <img src="../images/spacer.png" height="1px" width="30px"> <font style="font-size:15px"> University of Padova </font><br>  
-   </td>
- </tr> 
-</table>
 
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
