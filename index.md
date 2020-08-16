@@ -72,4 +72,7 @@ element {
     text-align: center;
     color: #fff;
 }
+body {
+    margin: 0;
+}
 </style>
