@@ -81,14 +81,11 @@ body, html{
   height: 70%;
 }
   
-  
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:0.2px solid #ffffff;
-}
 
-th{
-    border:0.2px solid #ffffff;
+.tile {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 46%;
 }
 </style>
