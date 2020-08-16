@@ -53,12 +53,10 @@ element {
     background-image: url(https://www.alliedtelesis.com/sites/default/files/iot-network-blog-min.jpg);
 }
 .page-lead {
-    background-size: cover;
-}
-.page-lead {
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     text-align: center;
     color: #fff;
 }
