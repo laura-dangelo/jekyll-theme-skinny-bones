@@ -33,7 +33,7 @@ I am a second-year PhD student in Statistics at University of Padova (Cycle XXXI
   
 At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional brain data.
 </div>
-
+<br>
 
 <div class="tiles">
 <div class="tile">
@@ -87,6 +87,6 @@ body, html{
     display: block;
     margin-left: 10.3576515979%;
     margin-right: 10.3576515979%;
-    width: 40%;
+    width: 30%;
 }
 </style>
