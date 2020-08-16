@@ -7,7 +7,7 @@ title: ""
 
 
 <body>    
-<div class="page-lead" style="background-image:url(https://www.engage.it/wp-content/uploads/2016/09/Fig-1.jpg)">
+<div class="page-lead" style="background-image:url(/images/back2.jpg)">
   <div class="wrap page-lead-content">
         <h1>Laura D'Angelo</h1>
         <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10"></h3>
@@ -68,7 +68,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 
 <style>
 element {
-    background-image: url(https://www.engage.it/wp-content/uploads/2016/09/Fig-1.jpg);
+    background-image: url(/images/back2.jpg);
 }
 .page-lead {
     background-position: center top;
