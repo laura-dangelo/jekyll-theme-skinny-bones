@@ -75,8 +75,8 @@ element {
     text-align: center;
     color: #fff;
 }
-body {
+body, html{
   margin: 0;
-  height: 40%;
+  height: 70%;
 }
 </style>
