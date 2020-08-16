@@ -3,7 +3,7 @@ permalink: /resume/
 defaults:
   # _pages
   - scope:
-layout: media
+layout: archive
 author_profile: true
 title: "Resume"
 ---
