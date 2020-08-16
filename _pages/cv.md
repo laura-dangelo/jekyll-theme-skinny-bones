@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /resume/
 defaults:
   # _pages
   - scope:
@@ -8,7 +8,7 @@ defaults:
     values:
       layout: media
       author_profile: true
-title: "cv"
+title: "Resume"
 ---
 
 questo è il cv
