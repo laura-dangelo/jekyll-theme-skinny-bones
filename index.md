@@ -10,9 +10,10 @@ title: ""
 <div class="page-lead" style="background-image:url(https://www.engage.it/wp-content/uploads/2016/09/Fig-1.jpg)">
   <div class="wrap page-lead-content">
         <h2>Laura D'Angelo</h2>
-        <h4>PhD student @ University of Padova <img src="/images/spacer.png" width="7"></h4>
+        <h4>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="17"></h4>
         <a class="btn-inverse" href=""> <img src="/images/mail.webp" width="27"> </a>
-        <a class="btn-inverse" href=""> l2 </a>
+        <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
+        <a class="btn-inverse" href=""> BO </a>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
     
@@ -20,9 +21,9 @@ title: ""
 <div id="page-wrapper">
 <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
 <div id="main" role="main">
-        <div class="wrap">
-          <div class="page-title">
-            <h1></h1>
+<div class="wrap">
+<div class="page-title">
+<h1></h1>
             
 </div>
 <div class="archive-wrap">
@@ -39,20 +40,21 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 
 <div class="tiles">
 <div class="tile">
-  <h2 class="post-title">Interests</h2>
-  <p class="post-excerpt"><li>   Statistical modeling </li>
-      <li>  Bayesian statistics </li>
-      <li>   Bayesian nonparametrics  </li>
-      <li> Computational statistics </li></p>
+<h2 class="post-title">Interests</h2>
+<p class="post-excerpt">
+    <li> Statistical modeling </li>
+    <li> Bayesian statistics </li>
+    <li> Bayesian nonparametrics  </li>
+    <li> Computational statistics </li></p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
   <h2 class="post-title">Education</h2>
   <p class="post-excerpt">
-    <li>   PhD in Statistical Sciences (ongoing) </li>
-      <li>  M.S. in Statistical Sciences </li>
-      <li>   B.S. in Statistics, Economics and Finance  </li></p>
+    <li>  PhD in Statistical Sciences (ongoing) </li>
+    <li>  M.S. in Statistical Sciences </li>
+    <li>  B.S. in Statistics, Economics and Finance  </li></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
