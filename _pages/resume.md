@@ -3,11 +3,8 @@ permalink: /resume/
 defaults:
   # _pages
   - scope:
-      path: ""
-      type: pages
-    values:
-      layout: media
-      author_profile: true
+layout: media
+author_profile: true
 title: "Resume"
 ---
 
