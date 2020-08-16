@@ -57,3 +57,17 @@ title: ""
 
 </div>
 </body>
+
+element {
+    background-image: url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg);
+}
+.page-lead {
+    background-size: cover;
+}
+.page-lead {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff;
+}
