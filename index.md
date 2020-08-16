@@ -10,7 +10,7 @@ title: ""
 <div class="page-lead" style="background-image:url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg)">
       <div class="wrap page-lead-content">
         <h2>Laura D'Angelo</h2>
-        <h4>PhD student in Statistics @ University of Padova</h4>
+        <h4>PhD student @ University of Padova</h4>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     
