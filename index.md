@@ -7,7 +7,7 @@ title: ""
 
 
 <body>    
-<div class="page-lead" style="background-image:url(https://www.alliedtelesis.com/sites/default/files/iot-network-blog-min.jpg)">
+<div class="page-lead" style="background-image:url(https://www.engage.it/wp-content/uploads/2016/09/Fig-1.jpg)">
       <div class="wrap page-lead-content">
         <h2>Laura D'Angelo</h2>
         <h4>PhD student @ University of Padova</h4>
@@ -26,6 +26,7 @@ title: ""
 <div class="archive-wrap">
 <div class="page-content">
   
+<br>  
 <font style="font-size:19px">
 I am a second-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, with a particular interest on discrete data, Bayesian Nonparametrics and Computational Statistics. 
   
@@ -64,7 +65,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 
 <style>
 element {
-    background-image: url(https://www.alliedtelesis.com/sites/default/files/iot-network-blog-min.jpg);
+    background-image: url(https://www.engage.it/wp-content/uploads/2016/09/Fig-1.jpg);
 }
 .page-lead {
     background-position: center top;
