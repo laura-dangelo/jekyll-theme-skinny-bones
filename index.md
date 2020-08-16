@@ -25,17 +25,14 @@ title: ""
 </div>
 <div class="archive-wrap">
 <div class="page-content">
-<div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title">Int1</h2>
-  <p class="post-excerpt">lala.</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Int1</h2>
-  <p class="post-excerpt">lldldld</p>
-</div><!-- /.tile -->
+  
+<font style="font-size:17px">
+I am a second-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, with a particular interest on discrete data, Bayesian Nonparametrics and Computational Statistics. 
+  
+<br>
+  
+At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional brain data.
+</font>
 
 </div>
 <!-- /.tiles -->
