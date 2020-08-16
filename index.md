@@ -82,11 +82,11 @@ element {
 }
 body{
   margin: 0;
+  font-size: 18px;
 }
 body, html{
   height: 70%;
 }
-  
 
 .tile {
     float: left;
