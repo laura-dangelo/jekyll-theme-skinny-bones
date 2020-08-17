@@ -54,7 +54,8 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <div class="tile">
   <h2 class="post-title">Education</h2>
   <p class="post-excerpt">
-    <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font></li>
+    <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
+    <font style="font-size:15px"><br> University of Padova </font> </li>
     <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
     <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
 </div><!-- /.tile -->
