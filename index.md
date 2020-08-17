@@ -4,6 +4,11 @@ permalink: /
 title: ""
 ---
 
+<link
+    rel="stylesheet"
+    type="text/css"
+    href="https://fonts.googleapis.com/css?family=Poppins:400,500,700"
+/>
 
 
 <body>    
@@ -80,6 +85,7 @@ element {
     background-size: cover;
     text-align: center;
     color: #fff;
+    font-family: "Poppins", sans-serif;
 }
 body{
 }
