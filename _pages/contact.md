@@ -36,6 +36,10 @@ Via Cesare Battisti 241 <br>
 [<img src="../images/rg_gray.png" width="35">](https://www.researchgate.net/profile/Laura_Dangelo)
 [<img src="../images/orcid_gray.png" width="35">](https://orcid.org/0000-0001-5034-7414)
 
+<style type="text/css">
+    a.typeA:hover {text-decoration: none;}
+</style>
+
 <style>
 button {
   background: none!important;
@@ -72,7 +76,7 @@ document.getElementById('copyButton2').addEventListener('click', function() {
 });
 </script>
 
- <style>
+<style>
 /* Tooltip container */
 .tooltip {
   position: relative;
