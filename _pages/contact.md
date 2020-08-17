@@ -21,7 +21,7 @@ Via Cesare Battisti 241 <br>
 laura.dangelo.1@phd.unipd.it <br>
 dangelo@stat.unipd.it
 
-<br/>
+<br>
 
 [<img src="../images/github_gray.png" width="35">](https://github.com/laura-dangelo)
 [<img src="../images/linkedin_gray.png" width="35">](https://www.linkedin.com/in/laura-dangelo/)
