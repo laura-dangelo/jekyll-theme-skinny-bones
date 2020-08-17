@@ -44,7 +44,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <div class="tile">
 <h2 class="post-title">Interests</h2>
 <p class="post-excerpt">
-    <li> Statistical modeling </li>
+    <li> <font style="font-size:18px"> Statistical modeling </font></li>
     <li> Bayesian statistics </li>
     <li> Bayesian nonparametrics  </li>
     <li> Computational statistics </li> </p>
