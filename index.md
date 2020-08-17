@@ -77,6 +77,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <style>
 element {
     background-image: url(/images/back2.jpg);
+    background-attachment: fixed
 }
 .page-lead {
     background-position: center top;
