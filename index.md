@@ -77,7 +77,11 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
 <style>
 element {
     background-image: url(/images/back2.jpg);
-    background-attachment: fixed
+}
+.page-container {
+    -ms-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
 }
 .page-lead {
     background-position: center top;
@@ -88,12 +92,9 @@ element {
     color: #fff;
     font-family: "Poppins", sans-serif;
 }
-body{
-}
 body, html{
   height: 70%;
 }
-
 .tile {
     float: left;
     display: block;
@@ -101,9 +102,5 @@ body, html{
     margin-right: 10.3576515979%;
     width: 30%;
 }
-.page-container {
-    -ms-transform: translate3d(0, 0, 0);
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-}
+
 </style>
