@@ -100,4 +100,9 @@ body, html{
     margin-right: 10.3576515979%;
     width: 30%;
 }
+.page-container {
+    -ms-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
 </style>
