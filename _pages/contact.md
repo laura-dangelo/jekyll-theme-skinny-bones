@@ -18,13 +18,11 @@ Via Cesare Battisti 241 <br>
 <br>
 
 <b>Email:</b> <br>
-<textarea id="clip" style="position: absolute; left: 100px; top: -100px;"></textarea>
 <div class="tooltip">
 <button id="copyButton">laura.dangelo.1@phd.unipd.it</button>
 <span class="tooltiptext"> Copy to clipboard </span>
 </div> 
 <br/>
-<textarea id="clip" style="position: absolute; left: 100px; top: -100px;">Test</textarea>
 <div class="tooltip">
 <button id="copyButton2">dangelo@stat.unipd.it</button>
 <span class="tooltiptext"> Copy to clipboard </span>
