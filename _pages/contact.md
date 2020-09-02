@@ -7,10 +7,11 @@ layout: archive
 author_profile: true
 title: "Contact"
 ---
-<div>
-  a {text-decoration: none}
-</div>
-<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<style>
+a:link {
+  text-decoration:none;
+}
+</style>
 
 <font style="font-size:17px">
 Department of Statistical Sciences <br>
