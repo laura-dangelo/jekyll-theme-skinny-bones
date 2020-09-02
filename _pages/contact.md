@@ -25,4 +25,4 @@ dangelo@stat.unipd.it
 
 
 
-<img src="./images/github_gray.png" alt="clickableimage" style="width:35">
+<img src="../images/github_gray.png" alt="clickableimage" style="width:35">
