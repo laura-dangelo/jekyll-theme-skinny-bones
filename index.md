@@ -18,7 +18,7 @@ title: ""
         <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10"></h3>
         <a class="btn-inverse" href="https://laura-dangelo.github.io/contact/"> <img src="/images/mail.webp" width="27"> </a>
         <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
-        <a class="btn-inverse" href="https://laura-dangelo.github.io/lost/"> ?? </a>
+        <a class="btn-inverse" href="https://laura-dangelo.github.io/lost/"> <font style="font-size:18px">??</font> </a>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
     
