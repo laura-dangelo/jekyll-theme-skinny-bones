@@ -8,8 +8,9 @@ author_profile: true
 title: "Contact"
 ---
 <style>
-a {
-  text-decoration:none;
+.custom-social img {
+  text-decoration: none;
+  margin-right: 20px;
 }
 </style>
 
@@ -27,7 +28,7 @@ dangelo@stat.unipd.it
 </font>
 <br>
 
-
+<div class="custom-social">
 <a href="https://github.com/laura-dangelo"> 
 <img src="../images/github_gray.png" alt="i" style="width:35px; border=0;">
 </a> 
@@ -40,5 +41,5 @@ dangelo@stat.unipd.it
 <a href="https://orcid.org/0000-0001-5034-7414"> 
 <img src="../images/orcid_gray.png" alt="i" style="width:35px; border=0;">
 </a> 
-
+</div>
 
