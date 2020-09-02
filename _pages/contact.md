@@ -8,7 +8,7 @@ author_profile: true
 title: "Contact"
 ---
 <style>
-a:link {
+a {
   text-decoration:none;
 }
 </style>
