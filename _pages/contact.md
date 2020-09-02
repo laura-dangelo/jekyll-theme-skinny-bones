@@ -39,3 +39,5 @@ dangelo@stat.unipd.it
 <a href="https://orcid.org/0000-0001-5034-7414"> 
 <img src="../images/orcid_gray.png" alt="clickableimage" style="width:35px; border=0;">
 </a> 
+
+<style> a { text-decoration: none; } </style>
