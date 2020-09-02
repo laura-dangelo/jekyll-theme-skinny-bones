@@ -10,7 +10,6 @@ title: "Contact"
 <style>
 .custom-social img {
   text-decoration: none;
-  margin-right: 20px;
 }
 </style>
 
