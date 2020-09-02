@@ -27,3 +27,15 @@ dangelo@stat.unipd.it
 <a href="https://github.com/laura-dangelo"> 
 <img src="../images/github_gray.png" alt="clickableimage" style="width:35px; border=0;">
 </a> 
+
+<a href="https://www.linkedin.com/in/laura-dangelo/"> 
+<img src="../images/linkedin_gray.png" alt="clickableimage" style="width:35px; border=0;">
+</a> 
+
+<a href="https://www.researchgate.net/profile/Laura_Dangelo"> 
+<img src="../images/rg_gray.png" alt="clickableimage" style="width:35px; border=0;">
+</a> 
+
+<a href="https://orcid.org/0000-0001-5034-7414"> 
+<img src="../images/orcid_gray.png" alt="clickableimage" style="width:35px; border=0;">
+</a> 
