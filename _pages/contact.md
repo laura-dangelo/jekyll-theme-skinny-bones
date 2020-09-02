@@ -24,5 +24,6 @@ dangelo@stat.unipd.it
 <br>
 
 
-
-<img src="../images/github_gray.png" alt="clickableimage" style="width:35">
+<a href="https://github.com/laura-dangelo"> 
+<img src="../images/github_gray.png" alt="clickableimage" style="width:35; border=0;">
+</a> 
