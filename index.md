@@ -4,27 +4,6 @@ permalink: /
 title: ""
 ---
 
-element.style {
-}
-.sliding-menu-button {
-    position: fixed;
-    transform: translateZ(0);
-    backface-visibility: hidden;
-    top: 1.618em;
-    right: 1.618em;
-    display: block;
-    width: 0px;
-    height: 0px;
-    background: #000;
-    outline: 0;
-    padding: 0;
-    border: 2.5px solid transparent;
-    cursor: pointer;
-    z-index: 20;
-    box-sizing: border-box;
-    transition: all 500ms cubic-bezier(0.86, 0.01, 0.77, 0.78);
-}
-
 
 <link
     rel="stylesheet"
