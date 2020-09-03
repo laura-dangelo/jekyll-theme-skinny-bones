@@ -157,7 +157,7 @@
     .excerpt {
       margin-top: 0;
       margin-left: 60px;
-      @include font-size(14,no);
+      @include font-size(1,no);
       @include media($small) {
         margin-left: 170px;
         @include font-size(16,no);
