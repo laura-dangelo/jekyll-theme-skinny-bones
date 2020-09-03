@@ -64,7 +64,7 @@
   visibility: hidden;
   backface-visibility: hidden;
   text-align: left;
-  @include size(100% 100%);
+  @include size(50% 50%);
   @include media($small) {
     width: em(600);
   }
@@ -170,7 +170,7 @@
     font-style: italic;
   }
   .menu-item .home a {
-    @include font-size(32);
+    @include font-size(22);
   }
 }
 
