@@ -7,7 +7,7 @@
 /* Slider */
 
 .slide {
-    transform: translateX(-100%);
+    transform: translateX(-50%);
     @include media($medium) {
       transform: translateX(em(-60));
     }
