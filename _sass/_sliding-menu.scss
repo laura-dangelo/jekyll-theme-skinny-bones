@@ -157,10 +157,10 @@
     .excerpt {
       margin-top: 0;
       margin-left: 60px;
-      @include font-size(14,no);
+      @include font-size(28,no);
       @include media($small) {
         margin-left: 170px;
-        @include font-size(16,no);
+        @include font-size(28,no);
       }
     }
   }
@@ -170,7 +170,7 @@
     font-style: italic;
   }
   .menu-item .home a {
-    @include font-size(2);
+    @include font-size(20);
   }
 }
 
