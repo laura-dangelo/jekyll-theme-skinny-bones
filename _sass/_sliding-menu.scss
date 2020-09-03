@@ -7,7 +7,7 @@
 /* Slider */
 
 .slide {
-    transform: translateX(-50%);
+    transform: translateX(-100%);
     @include media($medium) {
       transform: translateX(em(-60));
     }
@@ -66,10 +66,10 @@
   text-align: left;
   @include size(100% 100%);
   @include media($small) {
-    width: em(600);
+    width: em(200);
   }
   @include media($large) {
-    width: em(900);
+    width: em(600);
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;
