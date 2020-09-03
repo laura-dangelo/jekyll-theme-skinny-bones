@@ -151,7 +151,7 @@
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(30,no); 
+        @include font-size(50,no); // dimensione titolo?
       }
     }
     .excerpt {
