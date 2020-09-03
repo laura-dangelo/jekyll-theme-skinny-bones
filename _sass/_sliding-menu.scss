@@ -88,9 +88,9 @@
       margin-right: 20%;
     }
     color: $white;
-    @include font-size(2);
+    @include font-size(0); // titolo "Home"
     @include media($small) {
-      @include font-size(2);
+      @include font-size(0);
     }
     span {
       display: block;
@@ -145,13 +145,13 @@
     }
     .title {
       display: block;
-      margin-left: 60px;
+      margin-rightt: 20%;
       font-family: $alt-font;
-      @include font-size(24,no); // dimensione titoli collegamenti
+      @include font-size(20,no,1); // dimensione titoli collegamenti
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(24,no); 
+        @include font-size(20,no,1); 
       }
     }
     .excerpt {
