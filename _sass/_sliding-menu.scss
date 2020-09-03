@@ -88,9 +88,9 @@
       margin-right: 20%;
     }
     color: $white;
-    @include font-size(26);
+    @include font-size(28);
     @include media($small) {
-      @include font-size(26);
+      @include font-size(28);
     }
     span {
       display: block;
@@ -147,11 +147,11 @@
       display: block;
       margin-left: 60px;
       font-family: $alt-font;
-      @include font-size(1,no); 
+      @include font-size(10,no); 
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(18,no); 
+        @include font-size(10,no); 
       }
     }
     .excerpt {
