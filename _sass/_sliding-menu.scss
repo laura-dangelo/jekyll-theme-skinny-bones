@@ -94,9 +94,9 @@
     }
     span {
       display: block;
-      @include font-size(2,no,1);
+      @include font-size(20,no,1); // titolo "table of contents"
       @include media($small) {
-        @include font-size(2,no,1);
+        @include font-size(20,no,1);
       }
       font-family: $base-font;
       text-transform: uppercase;
@@ -147,11 +147,11 @@
       display: block;
       margin-left: 60px;
       font-family: $alt-font;
-      @include font-size(30,no); // dimensione titoli collegamenti
+      @include font-size(24,no); // dimensione titoli collegamenti
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(30,no); 
+        @include font-size(24,no); 
       }
     }
     .excerpt {
