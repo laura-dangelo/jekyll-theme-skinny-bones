@@ -64,7 +64,7 @@
   visibility: hidden;
   backface-visibility: hidden;
   text-align: left;
-  @include size(50% 50%);
+  @include size(100% 100%);
   @include media($small) {
     width: em(600);
   }
@@ -147,11 +147,11 @@
       display: block;
       margin-left: 60px;
       font-family: $alt-font;
-      @include font-size(24,no);
+      @include font-size(4,no); //24
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(32,no);
+        @include font-size(2,no); //32
       }
     }
     .excerpt {
