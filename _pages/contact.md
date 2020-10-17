@@ -14,14 +14,14 @@ title: "Contact"
 </style>
 
 <style> 
-.Center { 
-    position: absolute;
-    right: 50px;
-} 
+img {
+  display: block;
+  margin-right: 10%;
+}
 </style> 
 
 
-<div class="Center"> 
+<div class="img"> 
   <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
 </div>
 
