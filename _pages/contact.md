@@ -22,7 +22,7 @@ img2 {
 
 
 <div class="img2"> 
-  <img src="../images/profile.jpg" width="200px" border="0px">
+  <p><img src="../images/profile.jpg" width="200px" border="0px"></p>
 </div>
 
 
