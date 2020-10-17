@@ -13,8 +13,18 @@ title: "Contact"
 }
 </style>
 
+<style> 
+.Center { 
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    margin-top: -100px; 
+    margin-left: -100px; 
+} 
+</style> 
 
-<div>
+
+<div class="Center"> 
   <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
 </div>
 
