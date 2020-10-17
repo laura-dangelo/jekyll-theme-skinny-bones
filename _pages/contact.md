@@ -14,14 +14,14 @@ title: "Contact"
 </style>
 
 <style> 
-img {
+img2 {
   display: block;
   margin-right: 10%;
 }
 </style> 
 
 
-<div class="img"> 
+<div class="img2"> 
   <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
 </div>
 
