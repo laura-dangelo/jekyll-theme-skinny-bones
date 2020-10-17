@@ -21,7 +21,7 @@ img {
 
 <p>
   <img src="../images/profile.jpg" width="200px" border="0px"
-       style="float: right; width: 250px; margin:-10px 120px 0px 0px; ">
+       style="float: right; width: 250px; border: 1px solid #e0e0e0; padding: 5px ; margin:-20px 150px 0px 0px; ">
 </p>
 
 
