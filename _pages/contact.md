@@ -15,7 +15,7 @@ title: "Contact"
 
 <p>
   <img src="../images/profile.jpg" width="200px" border="0px"
-       style="float: right; width: 300px; border: 0px; padding: 10px; margin:0px 60px 0px 0px; ">
+       style="float: right; width: 300px; margin:0px 60px 0px 0px; ">
 </p>
 
 
