@@ -16,13 +16,13 @@ title: "Contact"
 <style> 
 img2 {
   display: block;
-  margin-left: 40%;
+  margin-right: 40%;
 }
 </style> 
 
 
 <div class="img2"> 
-  <p><img src="../images/profile.jpg" width="200px" border="0px"></p>
+  <img src="../images/profile.jpg" width="200px" border="0px">
 </div>
 
 
