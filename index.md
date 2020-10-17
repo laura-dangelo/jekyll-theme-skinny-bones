@@ -98,8 +98,8 @@ body, html{
 .tile {
     float: left;
     display: block;
-    margin-left: 2.3576515979%; 
-    margin-right: 2.3576515979%;
+    margin-left: 4.3576515979%; 
+    margin-right: 4.3576515979%;
     width: 45%;
 }
 
