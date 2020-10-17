@@ -55,8 +55,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <li> <font style="font-size:18px">Bayesian nonparametrics </font></li>
     <li> <font style="font-size:18px">Computational statistics </font></li></p>
 </div><!-- /.tile -->
-
-
+  
 <div class="tile">
   <h2 class="post-title">Education</h2>
   <p class="post-excerpt">
@@ -99,9 +98,9 @@ body, html{
 .tile {
     float: left;
     display: block;
-    margin-left: 5.3576515979%; 
-    margin-right: 5.3576515979%;
-    width: 40%;
+    margin-left: 10.3576515979%; 
+    margin-right: 10.3576515979%;
+    width: 50%;
 }
 
 </style>
