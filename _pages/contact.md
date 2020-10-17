@@ -13,19 +13,11 @@ title: "Contact"
 }
 </style>
 
-<style> 
-img2 {
-  display: block;
-  margin-right: 40%;
-}
-</style> 
+<p>
+  <img src="../images/profile.jpg" width="200px" border="0px"
+       style="float: right; width: 300px; border: 3px solid #73AD21; padding: 10px;">
+</p>
 
-<div style="clear:right;">
-<div class="img2"> 
-  <p><img src="../images/profile.jpg" width="200px" border="0px"
-          style="float: right; width: 300px; border: 3px solid #73AD21; padding: 10px;"></p>
-</div>
-</div>
 
 
 <font style="font-size:17px">
