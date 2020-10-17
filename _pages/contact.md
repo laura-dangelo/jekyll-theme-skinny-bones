@@ -16,13 +16,13 @@ title: "Contact"
 <style> 
 img2 {
   display: block;
-  margin-right: 50%;
+  margin-right: 90%;
 }
 </style> 
 
 
 <div class="img2"> 
-  <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+  <p style="float: right;"><img src="../images/profile.jpg" width="200px" border="0px"></p>
 </div>
 
 
