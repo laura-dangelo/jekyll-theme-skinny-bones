@@ -100,7 +100,7 @@ body, html{
     display: block;
     margin-left: 10.3576515979%; 
     margin-right: 10.3576515979%;
-    width: 50%;
+    width: 30%;
 }
 
 </style>
