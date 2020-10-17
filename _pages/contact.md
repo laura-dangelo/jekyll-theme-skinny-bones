@@ -53,5 +53,8 @@ dangelo@stat.unipd.it
 <a href="https://orcid.org/0000-0001-5034-7414"> 
 <img src="../images/orcid_gray.png" alt="i" style="width:35px; border=0;">
 </a> 
+<a href="https://twitter.com/laura_d_angelo"> 
+<img src="../images/twitter.png" alt="i" style="width:35px; border=0;">
+</a> 
 </div>
 
