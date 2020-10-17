@@ -22,7 +22,8 @@ img2 {
 
 
 <div class="img2"> 
-  <p><img src="../images/profile.jpg" width="200px" border="0px"></p>
+  <p><img src="../images/profile.jpg" width="200px" border="0px"
+          style="float:right; right:60px; bottom:0px; border:none;"></p>
 </div>
 
 
