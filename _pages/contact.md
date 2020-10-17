@@ -15,13 +15,13 @@ title: "Contact"
 
 <style>
 img {
-  border-radius: 10%;
+  border-radius: 20%;
 }
 </style>
 
 <p>
   <img src="../images/profile.jpg" width="200px" border="0px"
-       style="float: right; width: 250px; margin:0px 120px 0px 0px; ">
+       style="float: right; width: 250px; margin:-10px 120px 0px 0px; ">
 </p>
 
 
