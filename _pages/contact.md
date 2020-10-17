@@ -23,7 +23,7 @@ img2 {
 <div style="clear:right;">
 <div class="img2"> 
   <p><img src="../images/profile.jpg" width="200px" border="0px"
-          style="float:right; bottom:0px; border:100px;"></p>
+          style="position: absolute; bottom:0px; right:100px;"></p>
 </div>
 </div>
 
