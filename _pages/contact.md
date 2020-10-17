@@ -13,6 +13,23 @@ title: "Contact"
 }
 </style>
 
+
+<div>
+  <p>
+      <font style="font-size:17px">
+        Department of Statistical Sciences <br>
+        University of Padova<br>
+        Via Cesare Battisti 241 <br>
+        35121 Padova, Italy<br>
+        <b>Email:</b> <br>
+        laura.dangelo.1@phd.unipd.it <br>
+        dangelo@stat.unipd.it
+        </font>
+  </p>
+  <p style="float: right;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+</div>
+
+
 <font style="font-size:17px">
 Department of Statistical Sciences <br>
 University of Padova<br>
