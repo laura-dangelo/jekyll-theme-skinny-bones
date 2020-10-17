@@ -16,7 +16,7 @@ title: "Contact"
 <style> 
 img2 {
   display: block;
-  margin-right: 90%;
+  margin-left: 40%;
 }
 </style> 
 
