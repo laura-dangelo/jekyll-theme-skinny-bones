@@ -22,19 +22,6 @@ title: ""
 </div><!-- /.page-lead -->
     
 
-<div class="page-title">
-<h1></h1>
-            
-</div>
-<div class="archive-wrap">
-<div class="page-content">
-   
-<br>  
-<font style="font-size:18px">
-I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
-  
-  
-
 <div id="page-wrapper">
 <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
 <div id="main" role="main">
