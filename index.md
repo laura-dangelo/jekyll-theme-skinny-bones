@@ -34,8 +34,10 @@ title: ""
 </div>
 <div class="archive-wrap">
 <div class="page-content">
-  
-<br>  <font style="font-size:18px">
+   
+<br>  
+<p>
+<font style="font-size:18px">
 I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
   
 <br>
@@ -65,6 +67,7 @@ At the moment I am a visiting student at UCI, where I am working with Prof. Mich
     <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
+</p>
 
 <p style="margin-bottom:3cm;">
 <a name="Prova"> Provaa </a>
