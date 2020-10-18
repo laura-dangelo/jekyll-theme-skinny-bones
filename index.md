@@ -31,32 +31,41 @@ title: ""
     </div>
     <div class="archive-wrap">
       <div class="page-content">
-        <br>  
-          <font style="font-size:18px">
-            I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
-            <br>
-            At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional             brain data.
-          </font>
+        <br>          
+        <font style="font-size:18px">
+        I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
         <br>
-      <div class="tiles">
-        <div class="tile">
-        <h2 class="post-title">Interests</h2>
-        <p class="post-excerpt">
-            <li> <font style="font-size:18px"> Statistical modeling </font></li>
-            <li> <font style="font-size:18px">Bayesian statistics </font></li>
-            <li> <font style="font-size:18px">Bayesian nonparametrics </font></li>
-            <li> <font style="font-size:18px">Computational statistics </font></li></p>
-        </div><!-- /.tile -->
-        <div class="tile">
-          <h2 class="post-title">Education</h2>
+        At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional             brain data.
+        </font>  
+        <!-- /.fine descrizione iniziale -->
+        <br>
+        <br>
+        <!-- /.inizio tabella -->
+        <div class="tiles">
+          <div class="tile">
+          <h2 class="post-title">Interests</h2>
           <p class="post-excerpt">
-            <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
-            <font style="font-size:16px"><br> <img src="/images/spacer.png" width="20"> University of Padova </font> </li>
-            <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
-            <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
-        </div><!-- /.tile -->
-      </div><!-- /.tiles -->
-     </div><!-- /.page-content -->
+              <li> <font style="font-size:18px"> Statistical modeling </font></li>
+              <li> <font style="font-size:18px">Bayesian statistics </font></li>
+              <li> <font style="font-size:18px">Bayesian nonparametrics </font></li>
+              <li> <font style="font-size:18px">Computational statistics </font></li></p>
+          </div><!-- /.tile -->
+          <div class="tile">
+            <h2 class="post-title">Education</h2>
+            <p class="post-excerpt">
+              <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
+              <font style="font-size:16px"><br> <img src="/images/spacer.png" width="20"> University of Padova </font> </li>
+              <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
+              <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
+          </div><!-- /.tile -->
+        </div><!-- /.tiles -->
+        <!-- /.fine tabella -->
+        <br>
+        <section>
+          Prova sezione
+        </section>
+        <!-- /.fine testo -->
+      </div><!-- /.page-content -->
     </div><!-- /.archive-wrap -->
   </div><!-- /.wrap -->
 </div><!-- /#main -->
