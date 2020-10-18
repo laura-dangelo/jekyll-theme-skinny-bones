@@ -5,11 +5,9 @@ title: ""
 ---
 
 
-<link
-    rel="stylesheet"
-    type="text/css"
-    href="https://fonts.googleapis.com/css?family=Poppins:400,500,700"
-/>
+<link rel="stylesheet"
+      type="text/css"
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,700"/>
 
 
 <body>    
@@ -24,10 +22,6 @@ title: ""
 </div><!-- /.page-lead -->
     
 
-<div id="page-wrapper">
-<!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
-<div id="main" role="main">
-<div class="wrap">
 <div class="page-title">
 <h1></h1>
             
@@ -36,47 +30,48 @@ title: ""
 <div class="page-content">
    
 <br>  
-<section>
 <font style="font-size:18px">
 I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
   
-<br>
   
-At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional brain data.
-</font>
-</div>
-<br>
 
-
-<div class="tiles">
-<div class="tile">
-<h2 class="post-title">Interests</h2>
-<p class="post-excerpt">
-    <li> <font style="font-size:18px"> Statistical modeling </font></li>
-    <li> <font style="font-size:18px">Bayesian statistics </font></li>
-    <li> <font style="font-size:18px">Bayesian nonparametrics </font></li>
-    <li> <font style="font-size:18px">Computational statistics </font></li></p>
-</div><!-- /.tile -->
-  
-<div class="tile">
-  <h2 class="post-title">Education</h2>
-  <p class="post-excerpt">
-    <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
-    <font style="font-size:16px"><br> <img src="/images/spacer.png" width="20"> University of Padova </font> </li>
-    <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
-    <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
-</div><!-- /.tile -->
-</div><!-- /.tiles -->
-</section>
-
-<section>
-  Scrivo qualcosa qui
-</section>
-
-
-</div><!-- /.page-content -->
-</div><!-- /.archive-wrap -->
-</div><!-- /.wrap -->
+<div id="page-wrapper">
+<!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+<div id="main" role="main">
+  <div class="wrap">
+    <div class="page-title">
+      <h1></h1>
+    </div>
+    <div class="archive-wrap">
+      <div class="page-content">
+        <br>  
+          <font style="font-size:18px">
+            I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
+            <br>
+            At the moment I am a visiting student at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of high-dimensional             brain data.
+          </font>
+        <br>
+      <div class="tiles">
+        <div class="tile">
+        <h2 class="post-title">Interests</h2>
+        <p class="post-excerpt">
+            <li> <font style="font-size:18px"> Statistical modeling </font></li>
+            <li> <font style="font-size:18px">Bayesian statistics </font></li>
+            <li> <font style="font-size:18px">Bayesian nonparametrics </font></li>
+            <li> <font style="font-size:18px">Computational statistics </font></li></p>
+        </div><!-- /.tile -->
+        <div class="tile">
+          <h2 class="post-title">Education</h2>
+          <p class="post-excerpt">
+            <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
+            <font style="font-size:16px"><br> <img src="/images/spacer.png" width="20"> University of Padova </font> </li>
+            <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
+            <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
+        </div><!-- /.tile -->
+      </div><!-- /.tiles -->
+     </div><!-- /.page-content -->
+    </div><!-- /.archive-wrap -->
+  </div><!-- /.wrap -->
 </div><!-- /#main -->
 </body>
 
@@ -108,5 +103,4 @@ body, html{
     margin-right: 9.3576515979%;
     width: 31%;
 }
-
 </style>
