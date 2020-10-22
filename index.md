@@ -102,7 +102,7 @@ title: ""
 
 <style>
 h1{
-  text-align: right; display: inline;
+  text-align: left; display: inline;
 }
 element {
     background-image: url(/images/joy3.png);
