@@ -57,7 +57,7 @@ title: ""
             <br>
             <section>
               <a id="contact">
-                <h1 style="text-align:left">Contact</h1>
+                <h1 clear:left>Contact</h1>
               </a>
               <p> 
                 <img src="/images/profile3.jpg" width="200px" border="0px"
@@ -89,8 +89,8 @@ title: ""
                 </a> 
                 <a href="https://twitter.com/laura_d_angelo"> 
                 <img src="/images/twitter.png" alt="i" style="width:35px; border=0;">
-              </div>
-            </a>    
+                </a> 
+              </div> 
             </section>
           </div><!-- /.page-content -->
         </div><!-- /.archive-wrap -->
