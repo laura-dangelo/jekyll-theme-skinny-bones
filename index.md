@@ -96,8 +96,8 @@ body, html{
 .tile {
     float: left;
     display: block;
-    margin-left: 9.3576515979%; 
-    margin-right: 9.3576515979%;
-    width: 31%;
+    margin-left: 10.3576515979%; 
+    margin-right: 10.3576515979%;
+    width: 30%;
 }
 </style>
