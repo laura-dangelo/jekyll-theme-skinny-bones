@@ -13,7 +13,7 @@ title: ""
     <div class="wrap page-lead-content">
           <h1>Laura D'Angelo</h1>
           <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
-          <a class="btn-inverse" href="https://laura-dangelo.github.io#contact/"> <img src="/images/mail.webp" width="27"> </a>
+          <a class="btn-inverse" href="#contact"> <img src="/images/mail.webp" width="27"> </a>
           <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
           <a class="btn-inverse" href="https://laura-dangelo.github.io/lost/"> <font style="font-size:18px">??</font> </a>
     </div><!-- /.page-lead-content -->
@@ -56,12 +56,14 @@ title: ""
             <br>
             <br>
             <section>
-            <a name="contact">
-              <h1 style="text-align:left">Contact</h1>
-              <p> <img src="/images/profile3.jpg" width="200px" border="0px"
+              <a id="contact">
+                <h1 style="text-align:left">Contact</h1>
+              </a>
+              <p> 
+                <img src="/images/profile3.jpg" width="200px" border="0px"
                      style="float: right; width: 350px; border: 1px solid #e0e0e0; padding: 5px ; margin:0px 150px 0px 0px; ">
               </p>
-              <font style="font-size:17px">
+              <font style="font-size:18px">
                 Department of Statistical Sciences <br>
                 University of Padova<br>
                 Via Cesare Battisti 241 <br>
@@ -87,7 +89,6 @@ title: ""
                 </a> 
                 <a href="https://twitter.com/laura_d_angelo"> 
                 <img src="/images/twitter.png" alt="i" style="width:35px; border=0;">
-                </a> 
               </div>
             </a>    
             </section>
