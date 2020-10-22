@@ -41,6 +41,7 @@ title: ""
         <br>
         <br>
         <!-- /.inizio tabella -->
+        <section>
         <div class="tiles">
           <div class="tile">
           <h2 class="post-title">Interests</h2>
@@ -59,6 +60,7 @@ title: ""
               <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
           </div><!-- /.tile -->
         </div><!-- /.tiles -->
+        </section>
         <!-- /.fine tabella -->
         <br>
         <img src="/images/spacer.png" hight="200">
