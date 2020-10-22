@@ -57,7 +57,7 @@ title: ""
             <br>
             <section>
               <a id="contact">
-                h1{text-align: right; display: inline;}Contact</h1>
+                <h1>Contact</h1>
               </a>
               <p> 
                 <img src="/images/profile3.jpg" width="200px" border="0px"
@@ -101,6 +101,9 @@ title: ""
 </body>
 
 <style>
+h1{
+  text-align: right; display: inline;
+}
 element {
     background-image: url(/images/joy3.png);
 }
