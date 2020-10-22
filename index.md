@@ -9,7 +9,7 @@ title: ""
 
 
 <body>    
-  <div class="page-lead" style="background-image:url(/images/joy4.pdf)">
+  <div class="page-lead" style="background-image:url(/images/Rplot.pdf)">
     <div class="wrap page-lead-content">
           <h1>Laura D'Angelo</h1>
           <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
@@ -111,7 +111,7 @@ h2{
   width: 100%;
 }
 element {
-    background-image: url(/images/joy4.pdf);
+    background-image: url(/images/Rplot.pdf);
 }
 .page-container {
     -ms-transform: translate3d(0, 0, 0);
