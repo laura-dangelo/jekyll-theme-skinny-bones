@@ -57,7 +57,7 @@ title: ""
             <br>
             <section>
               <a id="contact">
-                <h1  position: absolute; margin-top: 40px; text-align:left>Contact</h1>
+                <h2>Contact</h2>
               </a>
               <p> 
                 <img src="/images/profile3.jpg" width="200px" border="0px"
@@ -73,6 +73,7 @@ title: ""
                 laura.dangelo.1@phd.unipd.it <br>
                 dangelo@stat.unipd.it
               </font>
+              <br>
               <br>
               <div class="custom-social">
                 <a href="https://github.com/laura-dangelo"> 
