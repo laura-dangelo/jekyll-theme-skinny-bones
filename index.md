@@ -137,8 +137,8 @@ body, html{
     float: left;
     display: block;
     margin-left: 10.3576515979%; 
-    margin-right: 10.3576515979%;
-    width: 31%;
+    margin-right: 5.3576515979%;
+    width: 41%;
 }
 .custom-social img {
   text-decoration: none;
