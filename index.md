@@ -129,14 +129,16 @@ body, html{
   height: 70%;
 }
 .tiles{
-  width = 100%;
+  float: left;
+    display: block;
+    width: 100%;
 }
 .tile {
     float: left;
     display: block;
-    margin-left: 2.3576515979%; 
-    margin-right: 2.3576515979%;
-    width: 45%;
+    margin-left: 10.3576515979%; 
+    margin-right: 10.3576515979%;
+    width: 31%;
 }
 .custom-social img {
   text-decoration: none;
