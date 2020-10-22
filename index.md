@@ -128,6 +128,9 @@ element {
 body, html{
   height: 70%;
 }
+.tiles{
+  width = 100%;
+}
 .tile {
     float: left;
     display: block;
