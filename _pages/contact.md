@@ -1,5 +1,4 @@
 ---
-permalink: /contact/
 defaults:
   # _pages
   - scope:
