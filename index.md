@@ -131,9 +131,9 @@ body, html{
 .tile {
     float: left;
     display: block;
-    margin-left: 10.3576515979%; 
-    margin-right: 10.3576515979%;
-    width: 31%;
+    margin-left: 12.3576515979%; 
+    margin-right: 6.3576515979%;
+    width: 35%;
 }
 .custom-social img {
   text-decoration: none;
