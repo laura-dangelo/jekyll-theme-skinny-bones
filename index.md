@@ -65,17 +65,17 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
     <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
-
-
-</div><!-- /.page-content -->
-</div><!-- /.archive-wrap -->
-</div><!-- /.wrap -->
-</div><!-- /#main -->
 </section>
 
 <section>
   Prova
 </section>
+
+</div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->
+</div><!-- /.wrap -->
+</div><!-- /#main -->
+
 
 </body>
 
