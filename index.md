@@ -62,7 +62,7 @@ title: ""
         </section>
         <!-- /.fine tabella -->
         <br>
-        <img src="/images/spacer.png" hight="100">
+        
         <section>
           Prova sezione
         </section>
