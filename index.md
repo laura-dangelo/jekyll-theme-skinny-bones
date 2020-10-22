@@ -33,7 +33,7 @@ title: ""
 </div>
 <div class="archive-wrap">
 <div class="page-content">
-<section>  
+ 
 <br>  <font style="font-size:18px">
 I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
 <br>
@@ -63,13 +63,7 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
     <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
-</section>
-<section>
-<div class="page-title">
-<h1>Cosa succede?</h1>        
-</div>
-  Prova
-</section>
+
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
 </div><!-- /.wrap -->
