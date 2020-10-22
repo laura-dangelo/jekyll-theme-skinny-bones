@@ -102,7 +102,11 @@ title: ""
 
 <style>
 h1{
-  clear: left; text-align: left; display: inline;
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: left !important;
+  width: 100%;
 }
 element {
     background-image: url(/images/joy3.png);
