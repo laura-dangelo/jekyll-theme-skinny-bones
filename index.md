@@ -61,9 +61,10 @@ title: ""
         </div><!-- /.tiles -->
         <!-- /.fine tabella -->
         <br>
+        <img src="/images/spacer.png" hight="200">
         non vedo niente
         <section>
-          Prova sezion
+          Prova sezione
         </section>
         <!-- /.fine testo -->
       </div><!-- /.page-content -->
