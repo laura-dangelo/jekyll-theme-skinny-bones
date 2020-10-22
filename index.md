@@ -30,8 +30,7 @@ title: ""
 <div id="main" role="main">
 <div class="wrap">
 <div class="page-title">
-<h1></h1>
-            
+<h1></h1>        
 </div>
 <div class="archive-wrap">
 <div class="page-content">
@@ -69,6 +68,14 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
 <section>
   Prova
 </section>
+</div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->
+<div class="page-title">
+<h1>Cosa succede?</h1>        
+</div>
+<div class="archive-wrap">
+<div class="page-content">
+prova2
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
 </div><!-- /.wrap -->
