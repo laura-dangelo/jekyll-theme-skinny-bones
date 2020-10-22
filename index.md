@@ -92,6 +92,7 @@ element {
     color: #fff;
     font-family: "Poppins", sans-serif;
 }
+html, body{}
 .tile {
     float: left;
     display: block;
