@@ -61,12 +61,11 @@ title: ""
         </div><!-- /.tiles -->
         </section>
         <!-- /.fine tabella -->
-        <br>
-        
+        <br>      
         <section>
+          <img src="/images/spacer.png" width="20">
           Prova sezione
-        </section>
-        
+        </section>      
         <!-- /.fine testo -->
       </div><!-- /.page-content -->
     </div><!-- /.archive-wrap -->
