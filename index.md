@@ -66,17 +66,13 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
 </section>
-
 <section>
   Prova
 </section>
-
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
 </div><!-- /.wrap -->
 </div><!-- /#main -->
-
-
 </body>
 
 <style>
