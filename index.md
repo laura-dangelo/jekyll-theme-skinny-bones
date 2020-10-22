@@ -13,6 +13,7 @@ title: ""
 
 
 <body>    
+<section>  
 <div class="page-lead" style="background-image:url(/images/joy2.png)">
   <div class="wrap page-lead-content">
         <h1>Laura D'Angelo</h1>
@@ -70,6 +71,11 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
 </div><!-- /.archive-wrap -->
 </div><!-- /.wrap -->
 </div><!-- /#main -->
+</section>
+
+<section>
+  Prova
+</section>
 
 </body>
 
