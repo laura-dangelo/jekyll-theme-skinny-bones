@@ -63,7 +63,7 @@ title: ""
         <br>
         non vedo niente
         <section>
-          Prova sezionennn
+          Prova sezion
         </section>
         <!-- /.fine testo -->
       </div><!-- /.page-content -->
