@@ -9,7 +9,7 @@ title: ""
 
 
 <body>    
-  <div class="page-lead" style="background-image:url(/images/joy2.png)">
+  <div class="page-lead" style="background-image:url(/images/joy3.png)">
     <div class="wrap page-lead-content">
           <h1>Laura D'Angelo</h1>
           <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
@@ -51,6 +51,9 @@ title: ""
                 <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
               </div><!-- /.tile -->
             </div><!-- /.tiles --> 
+            <section>
+              lala
+            </section>
           </div><!-- /.page-content -->
         </div><!-- /.archive-wrap -->
       </div><!-- /.wrap -->
@@ -60,7 +63,7 @@ title: ""
 
 <style>
 element {
-    background-image: url(/images/joy2.png);
+    background-image: url(/images/joy3.png);
 }
 .page-container {
     -ms-transform: translate3d(0, 0, 0);
