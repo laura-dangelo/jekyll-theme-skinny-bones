@@ -92,6 +92,8 @@ title: ""
                 <img src="/images/twitter.png" alt="i" style="width:35px; border=0;">
                 </a> 
               </div> 
+              <br>
+              <img src="/images/spacer.png">
             </section>
           </div><!-- /.page-content -->
         </div><!-- /.archive-wrap -->
