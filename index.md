@@ -111,7 +111,8 @@ h2{
   width: 100%;
 }
 element {
-    background-image: url(/images/Rplot.png);
+  background-image: url(/images/Rplot.png);
+  width: 100%;
 }
 .page-container {
     -ms-transform: translate3d(0, 0, 0);
