@@ -36,7 +36,7 @@ title: ""
               <img src="/images/spacer.png" width="20pt">
               <div class="tiles">
                 <div class="tile">
-                <h2 class="post-title">Interests</h2>
+                <h2 class="post-title">Interests <br> </h2>
                 <p class="post-excerpt">
                     <li> <font style="font-size:18px"> Statistical modeling </font></li>
                     <li> <font style="font-size:18px">Bayesian statistics </font></li>
@@ -44,7 +44,7 @@ title: ""
                     <li> <font style="font-size:18px">Computational statistics </font></li></p>
                 </div><!-- /.tile -->
                 <div class="tile">
-                <h2 class="post-title">Education</h2>
+                <h2 class="post-title">Education <br></h2>
                 <p class="post-excerpt">
                   <li>  <font style="font-size:18px">PhD in Statistical Sciences (ongoing) </font>
                   <font style="font-size:16px"><br> <img src="/images/spacer.png" width="20"> University of Padova </font> </li>
