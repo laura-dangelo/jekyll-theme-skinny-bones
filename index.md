@@ -12,7 +12,7 @@ title: ""
   <div class="page-lead" style="background-image:url(/images/joy2.png)">
     <div class="wrap page-lead-content">
           <h1>Laura D'Angelo</h1>
-          <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10"></h3>
+          <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
           <a class="btn-inverse" href="https://laura-dangelo.github.io/contact/"> <img src="/images/mail.webp" width="27"> </a>
           <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
           <a class="btn-inverse" href="https://laura-dangelo.github.io/lost/"> <font style="font-size:18px">??</font> </a>
@@ -24,7 +24,7 @@ title: ""
       <div class="wrap">
         <div class="archive-wrap">
           <div class="page-content">
-            <img src="/images/spacer.png" hight="10">
+            <img src="/images/spacer.png" hight="10pt">
             <br>  
             <font style="font-size:18px">
             I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
