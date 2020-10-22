@@ -13,7 +13,6 @@ title: ""
 
 
 <body>    
-<section>  
 <div class="page-lead" style="background-image:url(/images/joy2.png)">
   <div class="wrap page-lead-content">
         <h1>Laura D'Angelo</h1>
@@ -34,7 +33,7 @@ title: ""
 </div>
 <div class="archive-wrap">
 <div class="page-content">
-  
+<section>  
 <br>  <font style="font-size:18px">
 I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
 <br>
@@ -66,16 +65,11 @@ At the moment I am a visiting student at the Department of Statistiics at UCI, w
 </div><!-- /.tiles -->
 </section>
 <section>
-  Prova
-</section>
-</div><!-- /.page-content -->
-</div><!-- /.archive-wrap -->
 <div class="page-title">
 <h1>Cosa succede?</h1>        
 </div>
-<div class="archive-wrap">
-<div class="page-content">
-prova2
+  Prova
+</section>
 </div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
 </div><!-- /.wrap -->
