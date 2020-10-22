@@ -24,7 +24,7 @@ title: ""
       <div class="wrap">
         <div class="archive-wrap">
           <div class="page-content">
-            <img src="/images/spacer.png" height="50pt">
+            <img src="/images/spacer.png" width="10pt">
             <br>  
             <font style="font-size:18px">
             I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly             concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
@@ -32,7 +32,7 @@ title: ""
             At the moment I am a visiting student at the Department of Statistiics at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of calcium imaging data.
             </font>
             <br>
-            <img src="/images/spacer.png" height="50pt">
+            <img src="/images/spacer.png" width="10pt">
             <div class="tiles">
               <div class="tile">
               <h2 class="post-title">Interests</h2>
@@ -50,13 +50,7 @@ title: ""
                 <li>  <font style="font-size:18px">M.S. in Statistical Sciences </font></li>
                 <li>  <font style="font-size:18px">B.S. in Statistics, Economics and Finance  </font></li> </p>
               </div><!-- /.tile -->
-            </div><!-- /.tiles -->
-            <section>
-              <div class="page-title">
-                <h1> Titolo </h1>        
-              </div>
-              lalala
-            </section>    
+            </div><!-- /.tiles --> 
           </div><!-- /.page-content -->
         </div><!-- /.archive-wrap -->
       </div><!-- /.wrap -->
