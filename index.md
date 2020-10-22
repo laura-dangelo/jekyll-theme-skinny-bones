@@ -9,8 +9,7 @@ title: ""
       type="text/css"
       href="https://fonts.googleapis.com/css?family=Poppins:400,500,700"/>
 
-
-  
+<body> 
 <div class="page-lead" style="background-image:url(/images/joy2.png)">
   <div class="wrap page-lead-content">
         <h1>Laura D'Angelo</h1>
@@ -63,15 +62,17 @@ title: ""
         </section>
         <!-- /.fine tabella -->
         <br>
+        <img src="/images/spacer.png" hight="100">
         <section>
           Prova sezione
         </section>
+        
         <!-- /.fine testo -->
       </div><!-- /.page-content -->
     </div><!-- /.archive-wrap -->
   </div><!-- /.wrap -->
 </div><!-- /#main -->
-
+</body>
 
 <style>
 element {
@@ -90,9 +91,6 @@ element {
     text-align: center;
     color: #fff;
     font-family: "Poppins", sans-serif;
-}
-body, html{
-  height: 70%;
 }
 .tile {
     float: left;
