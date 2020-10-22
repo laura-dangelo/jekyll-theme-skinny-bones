@@ -57,7 +57,7 @@ title: ""
             <br>
             <section>
               <a id="contact">
-                <font style="font-size:22px">Contact</font>
+                <font style="font-size:22px"><b>Contact</b></font>
               </a>
               <p> 
                 <img src="/images/profile3.jpg" width="200px" border="0px"
