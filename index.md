@@ -9,7 +9,7 @@ title: ""
   <div class="page-lead" style="background-image:url(/images/Rplot01.png)">
     <div class="wrap page-lead-content">
           <h1 class="alternate-font">Laura D'Angelo</h1>
-          <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
+          <h3 class="alternate-font">PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
           <a class="btn-inverse" href="#contact"> <img src="/images/mail.webp" width="27"> </a>
           <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
           <a class="btn-inverse" href="https://laura-dangelo.github.io/resume/"> <img src="/images/cv.png" width="27"> </a>
@@ -101,7 +101,7 @@ title: ""
 
 <style>
 .alternate-font {
-   font-family:"New Century Schoolbook"
+   font-family:"Gill Sans"
 }
 h2{
   float: left;
