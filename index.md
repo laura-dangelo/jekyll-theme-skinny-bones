@@ -101,7 +101,7 @@ title: ""
 
 <style>
 .alternate-font {
-   font-family:"Garamond"
+   font-family:"Candara";
 }
 h2{
   float: left;
