@@ -101,7 +101,7 @@ title: ""
 
 <style>
 .alternate-font {
-   font-family:"Palatino"
+   font-family:"New Century Schoolbook"
 }
 h2{
   float: left;
