@@ -16,7 +16,7 @@ title: "Resume"
   <li> <font style="font-size:17px"> B.S. in Statistics, Economics and Finance; <i>University of Padova</i>, 2012-2015.</font> 
   <font style="font-size:15px"> <br> <i>Thesis title:</i> Covariate-specific area under the ROC curve.</font> </li>
 </ul>  
-<font style="font-size:17px"> Visiting scholar <i>University of California, Irvine</i>; Jan-Nov 2020</font> 
+<font style="font-size:17px"> Visiting scholar: <i>University of California, Irvine</i>; Jan-Nov 2020</font> 
 <font style="font-size:15px"> <br> <i>Co-supervisor:</i> Michele Guindani.</font> 
  
 <br>
