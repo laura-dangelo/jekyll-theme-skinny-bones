@@ -101,7 +101,7 @@ title: ""
 
 <style>
 .alternate-font {
-   font-family:"Gill Sans"
+   font-family:"New Century Schoolbook, TeX Gyre Schola, serif"
 }
 h2{
   float: left;
