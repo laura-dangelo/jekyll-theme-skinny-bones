@@ -101,7 +101,7 @@ title: ""
 
 <style>
 .alternate-font {
-   font-family:"Montserrat"
+   font-family:"Palatino"
 }
 h2{
   float: left;
