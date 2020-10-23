@@ -5,9 +5,6 @@ title: ""
 ---
 
 
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700"/>
-
-
 <body>    
   <div class="page-lead" style="background-image:url(/images/Rplot01.png)">
     <div class="wrap page-lead-content">
@@ -103,6 +100,9 @@ title: ""
 </body>
 
 <style>
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
 h2{
   float: left;
   margin-bottom: 20px;
