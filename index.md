@@ -52,7 +52,7 @@ title: ""
               </section>
             <br>
             <br>
-            <hr width="90%" color="#adadad">
+            <hr size="3" width="110%" color="#d1d1d1" noshade>
             <section>
               <a id="contact">
                 <h2>Contact</h2>
