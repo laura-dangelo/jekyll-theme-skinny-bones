@@ -52,6 +52,7 @@ title: ""
               </section>
             <br>
             <br>
+            <hr width="90%" color="#adadad">
             <section>
               <a id="contact">
                 <h2>Contact</h2>
