@@ -21,7 +21,7 @@ title: ""
       <div class="wrap">
         <div class="archive-wrap">
           <div class="page-content">
-            <img src="/images/spacer.png" width="20pt">
+            <img src="/images/spacer.png" width="40pt">
             <br>  
             <section>
               <font style="font-size:18px">
@@ -50,10 +50,6 @@ title: ""
                 </div><!-- /.tile -->
               </div><!-- /.tiles --> 
               </section>
-            <br>
-            <img src="/images/spacer.png" width="30pt">
-            <br>
-            <hr size="0.7" width="100%" color="#d1d1d1" noshade>
             <br>
             <img src="/images/spacer.png" width="30pt">
             <br>
