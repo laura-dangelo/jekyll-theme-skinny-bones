@@ -53,7 +53,7 @@ title: ""
             <br>
             <img src="/images/spacer.png" width="30pt">
             <br>
-            <hr size="0.7" width="10%" color="#d1d1d1" noshade>
+            <hr size="0.7" width="100%" color="#d1d1d1" noshade>
             <br>
             <img src="/images/spacer.png" width="30pt">
             <br>
