@@ -8,7 +8,7 @@ title: ""
 <body>    
   <div class="page-lead" style="background-image:url(/images/Rplot01.png)">
     <div class="wrap page-lead-content">
-          <h1>Laura D'Angelo</h1>
+          <h2>Laura D'Angelo</h2>
           <h3>PhD student @ University of Padova <br> <img src="/images/spacer.png" width="10pt"></h3>
           <a class="btn-inverse" href="#contact"> <img src="/images/mail.webp" width="27"> </a>
           <a class="btn-inverse" href="https://github.com/laura-dangelo"> <img src="/images/git.svg" width="27"> </a>
