@@ -55,7 +55,7 @@ title: ""
             <br>
             <section>
               <a id="contact">
-                <h2>Contact</h2>
+                <h4>Contact</h4>
               </a>
               <p> 
                 <img src="/images/profile3.jpg" width="200px" border="0px"
@@ -101,7 +101,7 @@ title: ""
 </body>
 
 <style>
-h2{
+h4{
   float: left;
   margin-bottom: 20px;
   margin-top: 20px;
