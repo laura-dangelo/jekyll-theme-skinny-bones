@@ -26,8 +26,7 @@ title: ""
             <section>
               <font style="font-size:18px">
               I am a third-year PhD student in Statistics at University of Padova (Cycle XXXIV), my supervisor is Prof. Antonio Canale. My research interests mainly concern Bayesian modeling of complex data, Bayesian Nonparametrics and Computational Statistics. 
-              <br> 
-              At the moment I am a visiting student at the Department of Statistiics at UCI, where I am working with Prof. Michele Guindani on a Bayesian model for the analysis of calcium imaging data.
+
               </font>
               <br>
               <img src="/images/spacer.png" width="20pt">
