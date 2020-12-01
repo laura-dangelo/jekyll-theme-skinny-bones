@@ -29,7 +29,7 @@ title: ""
 
               </font>
               <br>
-              <img src="/images/spacer.png" width="20pt">
+              <img src="/images/spacer.png" width="30pt">
               <div class="tiles">
                 <div class="tile">
                 <h3 class="post-title">Interests</h3>
