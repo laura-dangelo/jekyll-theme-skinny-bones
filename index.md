@@ -29,7 +29,7 @@ title: ""
 
               </font>
               <br>
-              <img src="/images/spacer.png" width="30pt">
+              <img src="/images/spacer.png" width="20pt">
               <div class="tiles">
                 <div class="tile">
                 <h3 class="post-title">Interests</h3>
@@ -50,7 +50,7 @@ title: ""
               </div><!-- /.tiles --> 
               </section>
             <br>
-            <img src="/images/spacer.png" width="30pt">
+            <img src="/images/spacer.png" width="40pt">
             <br>
             <section>
               <a id="contact">
