@@ -5,7 +5,7 @@ defaults:
   - scope:
 layout: archive
 author_profile: true
-title: ""
+title: "Publications"
 ---
 
 <style type="text/css">
