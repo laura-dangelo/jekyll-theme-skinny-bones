@@ -28,12 +28,11 @@ title: "Resume"
 <i>Department of Statistics; University of California, Irvine; Irvine, CA</i> </font> 
 <br>
 
-
 <h5> Work experience </h5>
 <font style="font-size:17px">Jan-Sep 2018: Data analyst at Business Integration Partners S.p.a. (Milan).</font> 
 <br>
 
-<h5>Teaching experience</h5>
+<h5> Teaching experience </h5>
 <font style="font-size:17px">2016-2017: Academic Tutor at University of Padova.</font>
 
 
