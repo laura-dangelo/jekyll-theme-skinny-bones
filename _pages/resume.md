@@ -9,7 +9,7 @@ title: "Resume"
 ---
 
 <h5> Current position </h5>
-<font style="font-size:17px"> PhD student in Statistical Sciences; (10/2018 – 09/2021, defense expected Febru-ary 2022). </font> 
+<font style="font-size:17px"> PhD student in Statistical Sciences; (10/2018 – 09/2021, defense expected February 2022). </font> 
 <i>Department of Statistical Sciences, University of Padova.</i>
 </ul>  
 
