@@ -10,7 +10,7 @@ title: "Resume"
 
 <h5> Current position </h5>
 <font style="font-size:17px"> PhD student in Statistics (10/2018 – 09/2021, defense expected February 2022). <br>
-<i>Department of Statistical Sciences, University of Padova.</i></font> 
+<i>Department of Statistical Sciences, University of Padova; Padova, Italy.</i></font> 
  
 
 
@@ -25,7 +25,7 @@ title: "Resume"
 
 <h5> Study visit </h5>
 <font style="font-size:17px">Jan-Nov 2020: visiting scholar under the supervision of Prof. Michele Guindani. <br>
-<i>Department of Statistics; University of California, Irvine; Irvine, CA</i> </font> 
+<i>Department of Statistics, University of California, Irvine; Irvine, CA</i> </font> 
 <br>
 
 <h5> Work experience </h5>
